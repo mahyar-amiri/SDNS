@@ -5,7 +5,7 @@
 
 > Don't forget to leave a Star ⭐
 
-A GUI IPv4 DNS Server Changer
+An IPv4 DNS Server Changer
 
 <!-- TOC -->
 * [Download](#download)
