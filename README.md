@@ -1,7 +1,7 @@
 # <img src="docs/logo.png" height=30> SDNS
 
-![GitHub Release](https://img.shields.io/github/v/release/mahyar-amiri/SDNS?label=Version)
-![GitHub Downloads](https://img.shields.io/github/downloads/mahyar-amiri/SDNS/total)
+[![GitHub Release](https://img.shields.io/github/v/release/mahyar-amiri/SDNS?label=Version)](https://github.com/mahyar-amiri/SDNS/releases)
+[![GitHub Downloads](https://img.shields.io/github/downloads/mahyar-amiri/SDNS/total)](https://github.com/mahyar-amiri/SDNS/releases)
 
 > Don't forget to leave a Star ⭐
 
@@ -31,8 +31,8 @@ An IPv4 DNS Server Changer
 
 ## Installation
 
-1. Open `SDNS_Installer.exe` as an administrator.
-2. Click on `Install` to start the installation progress.
+1. Open `SDNS_Installer.exe` as an administrator. (If you see `Windows Protected Your PC` message, click on `More info`, then click on `Run anyway`.)
+2. Click on `Install` to start the installation.
 3. Click on `Finish` to close the installation window.
 
 ## Usage
