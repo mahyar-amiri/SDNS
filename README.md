@@ -1,7 +1,8 @@
 # <img src="docs/logo.png" height=30> SDNS
 
 [![GitHub Release](https://img.shields.io/github/v/release/mahyar-amiri/SDNS?label=Version)](https://github.com/mahyar-amiri/SDNS/releases)
-[![GitHub Downloads](https://img.shields.io/github/downloads/mahyar-amiri/SDNS/total)](https://github.com/mahyar-amiri/SDNS/releases)
+
+[//]: # ([![GitHub Downloads]&#40;https://img.shields.io/github/downloads/mahyar-amiri/SDNS/total&#41;]&#40;https://github.com/mahyar-amiri/SDNS/releases&#41;)
 
 > Don't forget to leave a Star ⭐
 
